@@ -1,0 +1,17 @@
+{
+  "name": "SuperApp - Delivery Service: production",
+  "db": {
+  },
+  "app": {
+    "host": "http://localhost",
+    "port": 8002
+  },
+  "jwt": {
+    "expiresIn": "1h"
+  },
+  "origin": "http://localhost:8000",
+  "rabbitMq": {
+    "prefix": "amqps://avczmdaq:",
+    "host": "@chimpanzee.rmq.cloudamqp.com/avczmdaq"
+  }
+}
