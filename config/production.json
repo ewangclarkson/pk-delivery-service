@@ -9,7 +9,7 @@
   "jwt": {
     "expiresIn": "1h"
   },
-  "origin": "https://packagetracker.vercel.app",
+  "origin": "https://packagetracker.onrender.com",
   "rabbitMq": {
     "prefix": "amqps://avczmdaq:",
     "host": "@chimpanzee.rmq.cloudamqp.com/avczmdaq"
