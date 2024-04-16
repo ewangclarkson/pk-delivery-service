@@ -9,7 +9,7 @@
   "jwt": {
     "expiresIn": "1h"
   },
-  "origin": "https://packagetracker.onrender.com",
+  "origin": "http://localhost:8000",
   "rabbitMq": {
     "prefix": "amqps://avczmdaq:",
     "host": "@chimpanzee.rmq.cloudamqp.com/avczmdaq"
